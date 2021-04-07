@@ -30,4 +30,6 @@ int main()
         write(fd, "Nyiri Beata\n", 13);
         close(fd);
     }
+
+    return 0;
 }
